@@ -1,4 +1,3 @@
-- 👋 你大爷....
 
 <!---
 xiaodouya001/xiaodouya001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
